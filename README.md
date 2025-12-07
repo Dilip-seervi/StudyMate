@@ -8,8 +8,11 @@ This project is a personal study assistant built using Retrieval-Augmented Gener
 It helps students quickly find answers from their own study materials such as:
 
 1.PDFs (Notes)
+
 2.Textbooks
+
 3.Handwritten notes (converted to PDF)
+
 4.Any uploaded reference document
 
 Instead of searching manually, the app retrieves the most relevant content and generates clear, meaningful answers locally — without internet or paid APIs.
@@ -17,8 +20,11 @@ Instead of searching manually, the app retrieves the most relevant content and g
 🎯 Goals / Purpose
 
 1.Make studying faster and easier
+
 2.Provide accurate answers based on the materials the student has uploaded
+
 3.Preserve privacy by processing everything offline and locally
+
 4.Reduce dependency on Google search / online chatbots
 
 🧠 How It Works (RAG Workflow)
@@ -46,17 +52,25 @@ Instead of searching manually, the app retrieves the most relevant content and g
 ⭐ Key Features
 
 1.📝 Upload multiple study materials (PDFs)
+
 2.🔍 Ask any question from the documents
+
 3.⚡ Fast local response generation
+
 4.🔒 100% Privacy (no cloud)
+
 5.🧑‍💻 Easy to use — no technical knowledge required
+
 6.💡 Useful for exam preparation
 
 🌟 Practical Use Cases
 
 1.Engineering students preparing for internals/exams
+
 2.Quick revision before viva
+
 3.Searching for definitions, formulas, concepts
+
 4.Personalized study companion for any domain
 
 🔚 Conclusion
