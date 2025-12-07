@@ -15,11 +15,3 @@ A lightweight, offline-capable **Semantic Search Engine** designed for students.
 * **Multi-PDF Support:** Upload multiple lecture notes or textbooks at once.
 * **Lightweight:** Works on standard laptops without heavy hardware requirements.
 
-## 🛠️ Installation
-
-Follow these steps to set up the project on your local machine.
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/study-assistant.git](https://github.com/your-username/study-assistant.git)
-cd study-assistant
