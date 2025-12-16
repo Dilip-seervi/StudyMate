@@ -1,4 +1,9 @@
 streamlit
 pypdf
-scikit-learn
+sentence_transformers
+faiss
+textwrap
+re
+html
+typing 
 numpy
