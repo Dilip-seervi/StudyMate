@@ -1,9 +1,9 @@
 streamlit
 pypdf
-sentence_transformers
+sentenceTransformers
 faiss
 textwrap
 re
 html
-typing 
+List
 numpy
